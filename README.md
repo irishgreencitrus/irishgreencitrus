@@ -1,6 +1,4 @@
-### Hi there 👋
+![](https://img.shields.io/badge/language-go-informational) ![](https://img.shields.io/badge/language-python-green)
 
-<!--
-**irishgreencitrus/irishgreencitrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irishgreencitrus)](https://github.com/anuraghazra/github-readme-stats)
+[![Lime's GitHub stats](https://github-readme-stats.vercel.app/api?username=irishgreencitrus&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
