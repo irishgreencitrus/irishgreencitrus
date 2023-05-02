@@ -5,6 +5,7 @@ I'm more interested in learning new things than sustaining a project full time w
 #### Find me elsewhere
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://irishgreencitrus.itch.io)
 
+`@irishgreencitrus:matrix.org` on Matrix.
 #### Current System
 > You can click on these to see my config!
 
